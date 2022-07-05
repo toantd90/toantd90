@@ -11,7 +11,6 @@ I'm **Toan Tran** (he/him). I'm a Front-End Software Engineer at Rakuten.
 ## 📫 How to reach me
 
 - [Email](mailto:toantdfu@gmail.com)
-- [Github](https://github.com/toantd90)
 
 
 <!--
