@@ -12,6 +12,10 @@ I'm **Toan Tran** (he/him). I'm a Front-End Software Engineer at Rakuten.
 
 - [Email](mailto:toantdfu@gmail.com)
 
+## ✍️ Latest blog post
+
+- [React beautiful animation reordering the list of items](https://dev.to/toantd90/react-beautiful-animation-reordering-the-list-of-items-1mbp)
+
 
 <!--
 **toantd90/toantd90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
