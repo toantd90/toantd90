@@ -21,6 +21,9 @@ I'm **Toan Tran** (he/him). I'm a Front-End Software Engineer at Rakuten.
 
 ## 📈 Stats
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toantd90&layout=compact&theme=merko)
+
+
 ![Toan's GitHub stats](https://github-readme-stats.vercel.app/api?username=toantd90&show_icons=true&theme=merko)
 
 <!--
