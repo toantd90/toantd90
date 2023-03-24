@@ -7,6 +7,9 @@
 
 I'm **Toan Tran** (he/him). I'm a Front-End Software Engineer at Rakuten.
 
+<!--
+![Toan's profile view](https://komarev.com/ghpvc/?username=toantd90&color=green)
+-->
 
 ## 📫 How to reach me
 
@@ -16,6 +19,9 @@ I'm **Toan Tran** (he/him). I'm a Front-End Software Engineer at Rakuten.
 
 - [React beautiful animation reordering the list of items](https://dev.to/toantd90/react-beautiful-animation-reordering-the-list-of-items-1mbp)
 
+## 📈 Stats
+
+![Toan's GitHub stats](https://github-readme-stats.vercel.app/api?username=toantd90&show_icons=true&theme=merko)
 
 <!--
 **toantd90/toantd90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
