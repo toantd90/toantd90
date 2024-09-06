@@ -6,7 +6,7 @@
 ![Toan's profile view](https://komarev.com/ghpvc/?username=toantd90&color=green)
 
 
-I'm **Toan Tran** (he/him). I'm a Front-End Software Engineer at Rakuten.
+I'm **Toan Tran** (he/him). I'm a Front-End Lead & Architect at Zeals.
 
 ## 🛠️ Technologies & Tools
 
